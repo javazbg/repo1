@@ -36,7 +36,7 @@ public class ItemsController {
         for (Items items : all) {
             System.out.println(items);
         }
-        return "不厚道呀！！！"+all;
+        return "不厚道呀!";
     }
 
 }
